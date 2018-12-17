@@ -1,0 +1,10 @@
+nltk
+pandas
+numpy
+sklearn
+bs4
+requests
+autopep8
+vaderSentiment
+spacy
+gensim
